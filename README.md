@@ -1,4 +1,4 @@
-# Olá, meu nome é Lucas Coutrim
+# Hi,Im Lucas Coutrim
 
 ### Aqui é onde compartilho meus aprendizados e projetos.
 
