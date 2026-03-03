@@ -6,7 +6,10 @@
 
 - 🌱 Estou constantemente aprendendo e me aprimorando em Engenharia de dados.
 - 📚 Estudante de Ciêcia da Computação na faculdade FAM de Americana e formado no Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas na Escola Técnica Estadual Polivalente de Americana.
-- 💬 Estou aberto a colaborações e discussões sobre projetos interessantes. Fique à vontade para entrar em contato comigo!
+- 💬 Quero contribuir e aprender projetos desafiadores. Fique à vontade para me chamar.
+- 💼 Estou em busca de oportunidades como Estagiário ou Analista Júnior.
+- 📞 Telefone:(19) 99552-5739
+
 
 ## Linguagens e Tecnologias
 
