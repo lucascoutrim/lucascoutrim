@@ -1,4 +1,9 @@
-# Olá, Meu nome é Lucas Coutrim
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=35&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+World!;My+name+is+Lucas+Coutrim." 
+         alt="Typing SVG" />
+  </a>
+</div>
 
 ### Aqui é onde compartilho meus aprendizados e projetos.
 
